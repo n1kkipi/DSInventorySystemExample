@@ -1,1 +1,1 @@
-# DS Inventory System Documentation
+# DSInventory System Documentation
